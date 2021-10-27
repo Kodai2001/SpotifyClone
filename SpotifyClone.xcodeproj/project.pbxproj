@@ -29,6 +29,7 @@
 		8883490B2728260B00C74FD6 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8883490A2728260B00C74FD6 /* AudioTrack.swift */; };
 		8883490D2728261900C74FD6 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8883490C2728261900C74FD6 /* Artist.swift */; };
 		8883490F2728262F00C74FD6 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8883490E2728262F00C74FD6 /* UserProfile.swift */; };
+		888349112729496200C74FD6 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888349102729496200C74FD6 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		8883490A2728260B00C74FD6 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		8883490C2728261900C74FD6 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		8883490E2728262F00C74FD6 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		888349102729496200C74FD6 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				888348DA27281EBE00C74FD6 /* Assets.xcassets */,
 				888348D127281EB900C74FD6 /* AppDelegate.swift */,
 				888348D327281EB900C74FD6 /* SceneDelegate.swift */,
+				888349102729496200C74FD6 /* Extensions.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				888348F5272824C400C74FD6 /* AuthViewController.swift in Sources */,
 				888348D227281EB900C74FD6 /* AppDelegate.swift in Sources */,
 				8883490F2728262F00C74FD6 /* UserProfile.swift in Sources */,
+				888349112729496200C74FD6 /* Extensions.swift in Sources */,
 				888348F02728245900C74FD6 /* LibraryViewController.swift in Sources */,
 				8883490D2728261900C74FD6 /* Artist.swift in Sources */,
 				888348FF2728253B00C74FD6 /* PlaylistViewController.swift in Sources */,
